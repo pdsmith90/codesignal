@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 sub checkPalindrome {
   my ($inputString) = @_;
   if ($inputString eq reverse $inputString ) {return 1}
