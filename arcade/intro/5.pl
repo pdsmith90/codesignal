@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 sub shapeArea {
     my ($n) = $_[0];
     if ( $n == 1 ) { 
