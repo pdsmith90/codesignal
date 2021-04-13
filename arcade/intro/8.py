@@ -1,3 +1,5 @@
+#!/bin/python3
+
 def matrixElementsSum(matrix):
     spooked=[]
     roomSum=0
