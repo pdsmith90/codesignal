@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 sub makeArrayConsecutive2 {
     my ($statues) = @_;
     @$statues = sort { $a <=> $b } @$statues;
