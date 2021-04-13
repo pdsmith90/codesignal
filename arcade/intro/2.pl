@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 sub centuryFromYear {
   my ($year) = @_;
   $year += -1 ;
