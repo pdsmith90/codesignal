@@ -1,3 +1,5 @@
+#!/bin/python3
+
 def almostIncreasingSequence(sequence):
 
     count = 0 
