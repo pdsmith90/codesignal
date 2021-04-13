@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/env perl
 
 sub add {
   my ($param1, $param2) = @_;
