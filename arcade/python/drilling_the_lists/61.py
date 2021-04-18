@@ -4,7 +4,7 @@
 def mathPractice(numbers):
     return functools.reduce(lambda s, x: s*x[0]+x[1], list(zip((numbers+[0])[0::2],(numbers+[0])[1::2])),1)
 
-
+#   return reduce(lambda x, (i,y): x+y if i%2 else x*y, enumerate(numbers), 1)
 
 #def myFun(sum1,next1):
 #
