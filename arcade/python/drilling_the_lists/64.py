@@ -5,7 +5,7 @@ def primesSum(a, b):
 
 
 
-
+#sick of illegible one liners so heres a function to find primes
 def isPrime(a):
     # returns true/false to be used with filter
     
