@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 def calcBonuses(bonuses, n):
-    it = ...
+    it = (x for x in bonuses)
     res = 0
 
     try:
